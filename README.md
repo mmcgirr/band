@@ -1,5 +1,23 @@
 # BAND NOTES
 
+## Musicians
+|    Musician     |           Instrument(s)           |    Location    |             Availability             |
+| :-------------: | :-------------------------------: | :------------: | :----------------------------------: |
+|  Craig Donacki  |              Guitar               |     Hebron     |               Anytime                |
+|  Sharon Mayock  |              Vocals               |     Bolton     |                                      |
+|    Ken Scand    |           Electric Bass           |    Norwich     | Mon-Friday Evenings / Sat Afternoon  |
+|   Paul Golden   |           Rhythm Guitar           |     Hebron     |               Anytime                |
+| Timothy Brangan | Guitar/Mandolin/Keys/Some Vocals  |    Ashford     |                                      |
+| Stephen Iwanski |               Bass                |   Manchester   |                                      |
+|   Mike McGirr   | Drums, Vocals, Other Stuff Badly! | Lisbon/Norwich | All except Wednesday and Work Travel |
+|                 |                                   |                |                                      |
+
+**Out due to other commitments / Scheduling Conflicts**  
+|    Musician    | Instrument(s) |   Location    | Availability |
+| :------------: | :-----------: | :-----------: | :----------: |
+| Mike Gagliardi |  Drums/Perc   |  Southington  |              |
+|  John Pereira  | Guiar/Vocals  | East Hartford |              |
+
 ## Song List
 
 | Suggested by | Artist                  |             Title              |  BPM   | Time Sig | Length |  Key  | Downloaded? | Charted? | Stems? |
