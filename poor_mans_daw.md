@@ -17,7 +17,8 @@ I feed a track to the AI.  The AI spits out the track (as best it can - it's not
 * 4 separate tracks: (drums, bass, vocals and "everything else") or 
 * 6 separate tracks: (drums, bass, vocals, piano, guitar, "everything else")
 
-> [!NOTE] Ask Mike if you need/want a song "stem-ified".  Also for where the stems are.
+> [!NOTE] 
+> Ask Mike if you need/want a song "stem-ified".  Also for where the stems are.
 
 For now, I'll just use some separated tracks that I have on my PC.  
 
