@@ -18,7 +18,7 @@
 | Mike Gagliardi |  Drums/Perc   |  Southington  |              |
 |  John Pereira  | Guiar/Vocals  | East Hartford |              |
 
-## Song List
+## Initial Song List
 
 | Suggested by | Artist                  |             Title              |  BPM   | Time Sig | Length |  Key  | Downloaded? | Charted? | Stems? |
 | :----------: | :---------------------- | :----------------------------: | :----: | :------: | :----: | :---: | :---------: | :------: | :----: |
@@ -42,16 +42,31 @@
 |     Paul     | ZZ Top                  | Beer Drinkers and Hell Raisers |  133   |   4/4    |  3:27  |       |     Yes     |    No    |   No   |
 |     Paul     | Kiss                    |      Rock n Roll All Nite      |  145   |   4/4    |  4:01  |       |     Yes     |    No    |   No   |
 |     Paul     | Bon Jovi                |    You give love a bad name    |  123   |   4/4    |  3:50  |       |     Yes     |    No    |   No   |
-|     Mike     | The WallFlowers         |         One Headlight          |  110   |   4/4    |  3:35  |       |     Yes     |    No    |   No   |
-|     Mike     | Toad the Wet Sprocket   |       Walk on the Ocean        |  183   |   3/4    |  3:35  |       |     Yes     |    No    |   No   |
-|     Mike     | Duncan Sheik            |        Barely Breathing        |   95   |   4/4    |  4:09  |       |     Yes     |    No    |   No   |
-|     Mike     | Bill Withers            |             Use Me             |  155   |   4/4    |  3:49  |       |     Yes     |    No    |   No   |
-|     Mike     | Bill Withers            |           Lovely Day           |   98   |   4/4    |  4:15  |       |     Yes     |    No    |   No   |
-|     Mike     | Squeeze                 |            Tempted             |   95   |   4/4    |  3:52  |       |     Yes     |    No    |   No   |
-|     Mike     | Isley Brothers          |        It's Your Thing         |  186   |   4/4    |  2:49  |       |     Yes     |    No    |   No   |
-|     Mike     | Earth Wind & Fire       |          Shining Star          |  103   |   4/4    |  2:51  |       |     Yes     |    No    |   No   |
-|     Mike     | Marlena Shaw            |        California Soul         |   95   |   4/4    |  3:01  |       |     Yes     |    No    |   No   |
-|     Mike     | The Staples Singers     |      I'll Take You There       |  102   |   4/4    |  3:14  |       |     Yes     |    No    |   No   |
-|     Mike     | Jean Knight             |         Mr. Big Stuff          |   93   |   4/4    |  2:45  |       |     Yes     |    No    |   No   |
-|     Mike     | Stevie Wonder           |     Boogie on Reggae Woman     |  107   |   4/4    |  4:57  |       |     Yes     |    No    |   No   |
-|     Mike     | Aretha Franklin         |          Rock Steady           |  105   |   4/4    |  3:16  |       |     Yes     |    No    |   No   |
+|     Tim      | Santana                 |             Smooth             |        |          |        |       |     No      |          |        |
+|     Tim      | Nirvana/David Bowie     |     Man Who Sold the World     |        |          |        |       |     No      |          |        |
+|     Tim      | Def Leppard             |           Photograph           |        |          |        |       |     No      |          |        |
+
+
+## Additional Songs
+
+| Suggested by | Artist                |          Title          |  BPM  | Time Sig | Length |  Key  | Downloaded? | Charted? | Stems? |
+| :----------: | :-------------------- | :---------------------: | :---: | :------: | :----: | :---: | :---------: | :------: | :----: |
+|     Mike     | The WallFlowers       |      One Headlight      |  110  |   4/4    |  3:35  |       |     Yes     |    No    |   No   |
+|     Mike     | Toad the Wet Sprocket |    Walk on the Ocean    |  183  |   3/4    |  3:35  |       |     Yes     |    No    |   No   |
+|     Mike     | Duncan Sheik          |    Barely Breathing     |  95   |   4/4    |  4:09  |       |     Yes     |    No    |   No   |
+|     Mike     | Bill Withers          |         Use Me          |  155  |   4/4    |  3:49  |       |     Yes     |    No    |   No   |
+|     Mike     | Bill Withers          |       Lovely Day        |  98   |   4/4    |  4:15  |       |     Yes     |    No    |   No   |
+|     Mike     | Squeeze               |         Tempted         |  95   |   4/4    |  3:52  |       |     Yes     |    No    |   No   |
+|     Mike     | Isley Brothers        |     It's Your Thing     |  186  |   4/4    |  2:49  |       |     Yes     |    No    |   No   |
+|     Mike     | Earth Wind & Fire     |      Shining Star       |  103  |   4/4    |  2:51  |       |     Yes     |    No    |   No   |
+|     Mike     | Marlena Shaw          |     California Soul     |  95   |   4/4    |  3:01  |       |     Yes     |    No    |   No   |
+|     Mike     | The Staples Singers   |   I'll Take You There   |  102  |   4/4    |  3:14  |       |     Yes     |    No    |   No   |
+|     Mike     | Jean Knight           |      Mr. Big Stuff      |  93   |   4/4    |  2:45  |       |     Yes     |    No    |   No   |
+|     Mike     | Stevie Wonder         | Boogie on Reggae Woman  |  107  |   4/4    |  4:57  |       |     Yes     |    No    |   No   |
+|     Mike     | Aretha Franklin       |       Rock Steady       |  105  |   4/4    |  3:16  |       |     Yes     |    No    |   No   |
+|    Craig     | Twisted Sister        | We're Not Gonna Take it |       |          |        |       |     No      |          |        |
+|    Craig     | Van Halen             | Running With the Devil  |       |          |        |       |     No      |          |        |
+|    Craig     | Van Halen             |      Jamies Crying      |       |          |        |       |     No      |          |        |
+|    Craig     | Van Halen             |      Women in Love      |       |          |        |       |     No      |          |        |
+|    Craig     | Bon Jovi              |  Wanted Dead or Alive   |       |          |        |       |     No      |          |        |
+|    Craig     | Judas Priest          |    Breaking the Law     |       |          |        |       |     No      |          |        |
