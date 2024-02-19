@@ -10,6 +10,7 @@
 | Timothy Brangan | Guitar/Mandolin/Keys/Some Vocals  |    Ashford     |                                      |
 | Stephen Iwanski |               Bass                |   Manchester   |                                      |
 |   Mike McGirr   | Drums, Vocals, Other Stuff Badly! | Lisbon/Norwich | All except Wednesday and Work Travel |
+| Gina Turcketta  |              Vocals               |    Norwich?    |                                      |
 |                 |                                   |                |                                      |
 
 **Out due to other commitments / Scheduling Conflicts**  
