@@ -43,43 +43,43 @@
 |     Paul     | ZZ Top              | Beer Drinkers and Hell Raisers |  133   |   4/4    |  3:27  |   G   |     Yes     |    No    |   No   |
 |     Paul     | Kiss                |      Rock n Roll All Nite      |  145   |   4/4    |  4:01  | C#/Db |     Yes     |    No    |   No   |
 |     Paul     | Bon Jovi            |    You give love a bad name    |  123   |   4/4    |  3:50  |   C   |     Yes     |    No    |   No   |
-|     Tim      | Santana             |             Smooth             |  116   |          |  4:55  |   A   |     Yes     |          |        |
-|     Tim      | Nirvana             |     Man Who Sold the World     |  115   |          |  4:21  | C#/Db |     Yes     |          |        |
-|     Tim      | David Bowie         |     Man Who Sold The World     |  118   |          |  4:01  |   D   |     Yes     |          |        |
-|     Tim      | Def Leppard         |           Photograph           |  124   |          |  4:08  |   E   |     Yes     |          |        |
+|     Tim      | Santana             |             Smooth             |  116   |   4/4    |  4:55  |   A   |     Yes     |    No    |   No   |
+|     Tim      | Nirvana             |     Man Who Sold the World     |  115   |   4/4    |  4:21  | C#/Db |     Yes     |    No    |   No   |
+|     Tim      | David Bowie         |     Man Who Sold The World     |  118   |   4/4    |  4:01  |   D   |     Yes     |    No    |   No   |
+|     Tim      | Def Leppard         |           Photograph           |  124   |   4/4    |  4:08  |   E   |     Yes     |    No    |   No   |
 
 
 ## Additional Songs
 
-| Suggested by | Artist                |          Title          |  BPM  | Time Sig | Length |  Key  | Downloaded? | Charted? | Stems? |
-| :----------: | :-------------------- | :---------------------: | :---: | :------: | :----: | :---: | :---------: | :------: | :----: |
-|     Mike     | The WallFlowers       |      One Headlight      |  110  |   4/4    |  3:35  |   D   |     Yes     |    No    |   No   |
-|     Mike     | Toad the Wet Sprocket |    Walk on the Ocean    |  183  |   3/4    |  3:35  | F#/Gb |     Yes     |    No    |   No   |
-|     Mike     | Duncan Sheik          |    Barely Breathing     |  95   |   4/4    |  4:09  |   F   |     Yes     |    No    |   No   |
-|     Mike     | Bill Withers          |         Use Me          |  155  |   4/4    |  3:49  |   B   |     Yes     |    No    |   No   |
-|     Mike     | Bill Withers          |       Lovely Day        |  98   |   4/4    |  4:15  |   A   |     Yes     |    No    |   No   |
-|     Mike     | Squeeze               |         Tempted         |  95   |   4/4    |  3:52  | F#/Gb |     Yes     |    No    |   No   |
-|     Mike     | Isley Brothers        |     It's Your Thing     |  186  |   4/4    |  2:49  | A#/Bb |     Yes     |    No    |   No   |
-|     Mike     | Earth Wind & Fire     |      Shining Star       |  103  |   4/4    |  2:51  |   A   |     Yes     |    No    |   No   |
-|     Mike     | Marlena Shaw          |     California Soul     |  95   |   4/4    |  3:01  | G#/Ab |     Yes     |    No    |   No   |
-|     Mike     | The Staples Singers   |   I'll Take You There   |  102  |   4/4    |  3:14  |   C   |     Yes     |    No    |   No   |
-|     Mike     | Jean Knight           |      Mr. Big Stuff      |  93   |   4/4    |  2:45  | G#/Ab |     Yes     |    No    |   No   |
-|     Mike     | Stevie Wonder         | Boogie on Reggae Woman  |  107  |   4/4    |  4:57  | A#/Bb |     Yes     |    No    |   No   |
-|     Mike     | Aretha Franklin       |       Rock Steady       |  105  |   4/4    |  3:16  |   G   |     Yes     |    No    |   No   |
-|              |                       |                         |       |          |        |       |             |          |        |
-|    Craig     | Twisted Sister        | We're Not Gonna Take it |  149  |          |  3:40  |   E   |     Yes     |          |        |
-|    Craig     | Van Halen             | Running With the Devil  |  96   |          |  3:35  | G#/Ab |     Yes     |          |        |
-|    Craig     | Van Halen             |      Jamies Crying      |  128  |          |  3:30  | G#/Ab |     Yes     |          |        |
-|    Craig     | Van Halen             |      Women in Love      |  106  |          |  4:07  | G#/Ab |     Yes     |          |        |
-|    Craig     | Bon Jovi              |  Wanted Dead or Alive   |  150  |          |  5:09  |   G   |     Yes     |          |        |
-|    Craig     | Judas Priest          |    Breaking the Law     |  164  |          |  2:34  |   D   |     Yes     |          |        |
-|              |                       |                         |       |          |        |       |             |          |        |
-|    Sharon    | Wild Mountain Honey   |    Steve Miller Band    |  103  |          |  4:52  |   E   |     Yes     |          |        |
-|    Sharon    | My Old Friend         |       John Hiatt        |  115  |          |  3:50  |   G   |     Yes     |          |        |
-|    Sharon    | Angel from Montgomery |      Bonnie Raitt       |  125  |          |  3:59  |   A   |     Yes     |          |        |
-|    Sharon    | Slow Ride             |      Bonnie Raitt       |  97   |          |  4:00  |   E   |     Yes     |          |        |
-|    Sharon    | Take my Love w/you    |      Bonnie Raitt       |  188  |          |  4:21  |   C   |     Yes     |          |        |
-|    Sharon    | Black Water           |     Doobie Brothers     |  169  |          |  4:15  |   D   |     Yes     |          |        |
-|    Sharon    | Willin'               |       Little Feat       |  144  |          |  2:55  |   G   |     Yes     |          |        |
-|    Sharon    | Wreck Me              |        Tom Petty        |  164  |          |  3:23  | A#/Bb |     Yes     |          |        |
-|    Sharon    | 16 Days               |       Whiskeytown       |  128  |          |  3:55  |   C   |     Yes     |          |        |
+| Suggested by | Artist                |          Title          |  BPM   | Time Sig | Length |  Key  | Downloaded? | Charted? | Stems? |
+| :----------: | :-------------------- | :---------------------: | :----: | :------: | :----: | :---: | :---------: | :------: | :----: |
+|     Mike     | The WallFlowers       |      One Headlight      |  110   |   4/4    |  3:35  |   D   |     Yes     |    No    |   No   |
+|     Mike     | Toad the Wet Sprocket |    Walk on the Ocean    |  183   |   3/4    |  3:35  | F#/Gb |     Yes     |    No    |   No   |
+|     Mike     | Duncan Sheik          |    Barely Breathing     |   95   |   4/4    |  4:09  |   F   |     Yes     |    No    |   No   |
+|     Mike     | Bill Withers          |         Use Me          |  155   |   4/4    |  3:49  |   B   |     Yes     |    No    |   No   |
+|     Mike     | Bill Withers          |       Lovely Day        |   98   |   4/4    |  4:15  |   A   |     Yes     |    No    |   No   |
+|     Mike     | Squeeze               |         Tempted         |   95   |   4/4    |  3:52  | F#/Gb |     Yes     |    No    |   No   |
+|     Mike     | Isley Brothers        |     It's Your Thing     |  186   |   4/4    |  2:49  | A#/Bb |     Yes     |    No    |   No   |
+|     Mike     | Earth Wind & Fire     |      Shining Star       |  103   |   4/4    |  2:51  |   A   |     Yes     |    No    |   No   |
+|     Mike     | Marlena Shaw          |     California Soul     |   95   |   4/4    |  3:01  | G#/Ab |     Yes     |    No    |   No   |
+|     Mike     | The Staples Singers   |   I'll Take You There   |  102   |   4/4    |  3:14  |   C   |     Yes     |    No    |   No   |
+|     Mike     | Jean Knight           |      Mr. Big Stuff      |   93   |   4/4    |  2:45  | G#/Ab |     Yes     |    No    |   No   |
+|     Mike     | Stevie Wonder         | Boogie on Reggae Woman  |  107   |   4/4    |  4:57  | A#/Bb |     Yes     |    No    |   No   |
+|     Mike     | Aretha Franklin       |       Rock Steady       |  105   |   4/4    |  3:16  |   G   |     Yes     |    No    |   No   |
+|              |                       |                         |        |          |        |       |             |          |        |
+|    Craig     | Twisted Sister        | We're Not Gonna Take it |  149   |   4/4    |  3:40  |   E   |     Yes     |    No    |   No   |
+|    Craig     | Van Halen             | Running With the Devil  |   96   |   4/4    |  3:35  | G#/Ab |     Yes     |    No    |   No   |
+|    Craig     | Van Halen             |      Jamies Crying      |  128   |   4/4    |  3:30  | G#/Ab |     Yes     |    No    |   No   |
+|    Craig     | Van Halen             |      Women in Love      |  106   |   4/4    |  4:07  | G#/Ab |     Yes     |    No    |   No   |
+|    Craig     | Bon Jovi              |  Wanted Dead or Alive   |  150   |   4/4    |  5:09  |   G   |     Yes     |    No    |   No   |
+|    Craig     | Judas Priest          |    Breaking the Law     |  164   |   4/4    |  2:34  |   D   |     Yes     |    No    |   No   |
+|              |                       |                         |        |          |        |       |             |          |        |
+|    Sharon    | Wild Mountain Honey   |    Steve Miller Band    |  103   |   4/4    |  4:52  |   E   |     Yes     |    No    |   No   |
+|    Sharon    | My Old Friend         |       John Hiatt        |  115   |   4/4    |  3:50  |   G   |     Yes     |    No    |   No   |
+|    Sharon    | Angel from Montgomery |      Bonnie Raitt       |  125   |   4/4    |  3:59  |   A   |     Yes     |    No    |   No   |
+|    Sharon    | Slow Ride             |      Bonnie Raitt       |   97   |   4/4    |  4:00  |   E   |     Yes     |    No    |   No   |
+|    Sharon    | Take my Love w/you    |      Bonnie Raitt       | 188/94 |   4/4    |  4:21  |   C   |     Yes     |    No    |   No   |
+|    Sharon    | Black Water           |     Doobie Brothers     |  169   |   4/4    |  4:15  |   D   |     Yes     |    No    |   No   |
+|    Sharon    | Willin'               |       Little Feat       |  144   |   4/4    |  2:55  |   G   |     Yes     |    No    |   No   |
+|    Sharon    | You Wreck Me          |        Tom Petty        |  164   |   4/4    |  3:23  | A#/Bb |     Yes     |    No    |   No   |
+|    Sharon    | 16 Days               |       Whiskeytown       |  128   |   4/4    |  3:55  |   C   |     Yes     |    No    |   No   |
