@@ -21,32 +21,37 @@
 
 ## Initial Song List
 
-| Suggested by | Artist              |             Title              |  BPM   | Time Sig | Length |  Key  | Downloaded? | Charted? | Stems? |
-| :----------: | :------------------ | :----------------------------: | :----: | :------: | :----: | :---: | :---------: | :------: | :----: |
-|    Sharon    | Band of Heathens    |           Hurricane            | 130/65 |   4/4    |  5:19  |   G   |     Yes     |    No    |   No   |
-|    Sharon    | America             |       Horse with No Name       |  123   |   4/4    |  4:11  |   B   |     Yes     |    No    |   No   |
-|    Sharon    | Steeldrivers        |    Where Rainbows Never Die    |  113   |   4/4    |  3:48  |   E   |     Yes     |    No    |   No   |
-|    Sharon    | Drive-By Truckers   |      Goddamn Lonely Love       |  119   |   4/4    |  4:55  |   G   |     Yes     |    No    |   No   |
-|    Sharon    | Kenny Wayne Shepard |         Blue on Black          |  155   |   4/4    |  4:35  |   G   |     Yes     |    No    |   No   |
-|    Craig     | Roy Orbison         |        Oh, Pretty Woman        |  130   |   4/4    |  2:56  |   A   |     Yes     |    No    |   No   |
-|    Craig     | Van Halen           |     Take Me Back (Deju Vu)     |   85   |   4/4    |  4:45  |   D   |     Yes     |    No    |   No   |
-|    Craig     | Pat Benetar         |   Hit Me With Your Best Shot   |  130   |   4/4    |  2:51  |   E   |     Yes     |    No    |   No   |
-|     Ken      | The Wallflowers     |         One Headlight          |  110   |   4/4    |  4:38  |   D   |     Yes     |    No    |   No   |
-|     Ken      | Duncan Sheik        |        Barely Breathing        |   95   |   4/4    |  4:09  |   F   |     Yes     |    No    |   No   |
-|     Ken      | Van Halen           |        Oh, Pretty Woman        |  130   |   4/4    |  2:56  | C#/Db |     Yes     |    No    |   No   |
-|    Steve     | Johnny Nash         |     I can see clearly now      |  124   |   4/4    |  2:48  |   D   |     Yes     |    No    |   No   |
-|    Steve     | Bill Withers        |           Lovely Day           |   98   |   4/4    |  4:15  |   A   |     Yes     |    No    |   No   |
-|    Steve     | Joan Jett           |  I hate myself for loving you  |  118   |   4/4    |  4:17  |   A   |     Yes     |    No    |   No   |
-|    Steve     | Beatles             |       Rock n Roll Music        |  167   |   4/4    |  2:31  |   A   |     Yes     |    No    |   No   |
-|    Steve     | Eric Clapton        |       Key to the Highway       |   81   |   4/4    |  3:39  |   G   |     Yes     |    No    |   No   |
-|    Steve     | Pearl Jam           |             Jeremy             |  109   |   4/4    |  5:18  |   D   |     Yes     |    No    |   No   |
-|     Paul     | ZZ Top              | Beer Drinkers and Hell Raisers |  133   |   4/4    |  3:27  |   G   |     Yes     |    No    |   No   |
-|     Paul     | Kiss                |      Rock n Roll All Nite      |  145   |   4/4    |  4:01  | C#/Db |     Yes     |    No    |   No   |
-|     Paul     | Bon Jovi            |    You give love a bad name    |  123   |   4/4    |  3:50  |   C   |     Yes     |    No    |   No   |
-|     Tim      | Santana             |             Smooth             |  116   |   4/4    |  4:55  |   A   |     Yes     |    No    |   No   |
-|     Tim      | Nirvana             |     Man Who Sold the World     |  115   |   4/4    |  4:21  | C#/Db |     Yes     |    No    |   No   |
-|     Tim      | David Bowie         |     Man Who Sold The World     |  118   |   4/4    |  4:01  |   D   |     Yes     |    No    |   No   |
-|     Tim      | Def Leppard         |           Photograph           |  124   |   4/4    |  4:08  |   E   |     Yes     |    No    |   No   |
+| Suggested by | Artist                       |             Title              |  BPM   | Time Sig | Length |  Key  | Downloaded? | Charted? | Stems? |
+| :----------: | :--------------------------- | :----------------------------: | :----: | :------: | :----: | :---: | :---------: | :------: | :----: |
+|    Sharon    | Band of Heathens             |           Hurricane            | 130/65 |   4/4    |  5:19  |   G   |     Yes     |    No    |   No   |
+|    Sharon    | America                      |       Horse with No Name       |  123   |   4/4    |  4:11  |   B   |     Yes     |    No    |   No   |
+|    Sharon    | Steeldrivers                 |    Where Rainbows Never Die    |  113   |   4/4    |  3:48  |   E   |     Yes     |    No    |   No   |
+|    Sharon    | Drive-By Truckers            |      Goddamn Lonely Love       |  119   |   4/4    |  4:55  |   G   |     Yes     |    No    |   No   |
+|    Sharon    | Kenny Wayne Shepard          |         Blue on Black          |  155   |   4/4    |  4:35  |   G   |     Yes     |    No    |   No   |
+|    Craig     | Roy Orbison                  |        Oh, Pretty Woman        |  130   |   4/4    |  2:56  |   A   |     Yes     |    No    |   No   |
+|    Craig     | Van Halen                    |     Take Me Back (Deju Vu)     |   85   |   4/4    |  4:45  |   D   |     Yes     |    No    |   No   |
+|    Craig     | Pat Benetar                  |   Hit Me With Your Best Shot   |  130   |   4/4    |  2:51  |   E   |     Yes     |    No    |   No   |
+|     Ken      | The Wallflowers              |         One Headlight          |  110   |   4/4    |  4:38  |   D   |     Yes     |    No    |   No   |
+|     Ken      | Duncan Sheik                 |        Barely Breathing        |   95   |   4/4    |  4:09  |   F   |     Yes     |    No    |   No   |
+|     Ken      | Van Halen                    |        Oh, Pretty Woman        |  130   |   4/4    |  2:56  | C#/Db |     Yes     |    No    |   No   |
+|    Steve     | Johnny Nash                  |     I can see clearly now      |  124   |   4/4    |  2:48  |   D   |     Yes     |    No    |   No   |
+|    Steve     | Bill Withers                 |           Lovely Day           |   98   |   4/4    |  4:15  |   A   |     Yes     |    No    |   No   |
+|    Steve     | Joan Jett                    |  I hate myself for loving you  |  118   |   4/4    |  4:17  |   A   |     Yes     |    No    |   No   |
+|    Steve     | Beatles                      |       Rock n Roll Music        |  167   |   4/4    |  2:31  |   A   |     Yes     |    No    |   No   |
+|    Steve     | Eric Clapton                 |       Key to the Highway       |   81   |   4/4    |  3:39  |   G   |     Yes     |    No    |   No   |
+|    Steve     | Pearl Jam                    |             Jeremy             |  109   |   4/4    |  5:18  |   D   |     Yes     |    No    |   No   |
+|     Paul     | ZZ Top                       | Beer Drinkers and Hell Raisers |  133   |   4/4    |  3:27  |   G   |     Yes     |    No    |   No   |
+|     Paul     | Kiss                         |      Rock n Roll All Nite      |  145   |   4/4    |  4:01  | C#/Db |     Yes     |    No    |   No   |
+|     Paul     | Bon Jovi                     |    You give love a bad name    |  123   |   4/4    |  3:50  |   C   |     Yes     |    No    |   No   |
+|     Tim      | Santana                      |             Smooth             |  116   |   4/4    |  4:55  |   A   |     Yes     |    No    |   No   |
+|     Tim      | Nirvana                      |     Man Who Sold the World     |  115   |   4/4    |  4:21  | C#/Db |     Yes     |    No    |   No   |
+|     Tim      | David Bowie                  |     Man Who Sold The World     |  118   |   4/4    |  4:01  |   D   |     Yes     |    No    |   No   |
+|     Tim      | Def Leppard                  |           Photograph           |  124   |   4/4    |  4:08  |   E   |     Yes     |    No    |   No   |
+|     Gina     | Buffalo Springfield          |      For What it's Worth       |        |          |        |       |             |          |        |
+|     Gina     | Creedence Clearwater Revival |  Have you Ever Seen the Rain   |        |          |        |       |             |          |        |
+|     Gina     | Tom Cochrane                 |   Lunatic Fringe (Acoustic)    |        |          |        |       |             |          |        |
+|     Gina     | Chicago                      |           Beginnings           |        |          |        |       |             |          |        |
+|     Gina     | Allman Brothers              |            Blue Sky            |        |          |        |       |             |          |        |
 
 
 ## Additional Songs
