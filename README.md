@@ -47,11 +47,11 @@
 |     Tim      | Nirvana                      |     Man Who Sold the World     |  115   |   4/4    |  4:21  | C#/Db |     Yes     |    No    |   No   |
 |     Tim      | David Bowie                  |     Man Who Sold The World     |  118   |   4/4    |  4:01  |   D   |     Yes     |    No    |   No   |
 |     Tim      | Def Leppard                  |           Photograph           |  124   |   4/4    |  4:08  |   E   |     Yes     |    No    |   No   |
-|     Gina     | Buffalo Springfield          |      For What it's Worth       |        |          |        |       |             |          |        |
-|     Gina     | Creedence Clearwater Revival |  Have you Ever Seen the Rain   |        |          |        |       |             |          |        |
-|     Gina     | Tom Cochrane                 |   Lunatic Fringe (Acoustic)    |        |          |        |       |             |          |        |
-|     Gina     | Chicago                      |           Beginnings           |        |          |        |       |             |          |        |
-|     Gina     | Allman Brothers              |            Blue Sky            |        |          |        |       |             |          |        |
+|     Gina     | Buffalo Springfield          |      For What it's Worth       |   99   |   4/4    |  2:34  |   D   |     Yes     |    No    |   No   |
+|     Gina     | Creedence Clearwater Revival |  Have you Ever Seen the Rain   |  116   |   4/4    |  2:40  |   C   |     Yes     |    No    |   No   |
+|     Gina     | Tom Cochrane                 |   Lunatic Fringe (Acoustic)    |   96   |   4/4    |  4:39  |   G   |     Yes     |    No    |   No   |
+|     Gina     | Chicago                      |           Beginnings           |  111   |   4/4    |  7:54  |   B   |     Yes     |    No    |   No   |
+|     Gina     | Allman Brothers              |            Blue Sky            |   94   |   4/4    |  5:12  |   E   |     Yes     |    No    |   No   |
 
 
 ## Additional Songs
